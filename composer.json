@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "pear/http_request2":    "dev-trunk",
+        "pear/http_request2":    "@dev",
         "pear/mail_mime":        "*",
         "pear/mail_mime-decode": "*"
     },
