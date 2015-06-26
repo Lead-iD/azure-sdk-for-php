@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "pear/http_request2":   "*",
+        "pear/http_request2":   "dev-master",
         "pear/mail_mime":       "*",
         "pear/mail_mime-decode": "*"
     },
