@@ -12,7 +12,7 @@
     "require": {
             "pear-pear.php.net/mail_mime": "*",
             "pear-pear.php.net/mail_mimedecode": "*",
-            "pear-pear.php.net/http_request2": "*"
+            "pear-pear.php.net/http_request2": "2.2.*"
     },
     
     "repositories": [
